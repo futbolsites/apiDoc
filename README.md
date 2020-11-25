@@ -1,6 +1,7 @@
 # API DOCS
 
-`BASE_URL https://api-cms.futbolsites.net/v1/sites/{SITE_CODE}`
+#### BASE_URL 
+```https://api-cms.futbolsites.net/v1/sites/{SITE_CODE}```
 
 | Site                | Code  |
 |---------------------|-------|
@@ -10,4 +11,4 @@
 
 ### Resources
 
-[News] (/resources/news.md)
+* [News](/resources/news.md)
